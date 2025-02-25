@@ -16,6 +16,11 @@ AWS IAM: Secure access management for AWS services.
 Python/PySpark: For data transformation scripts.
 
 Power BI (Optional): For visualizing the transformed data.
+<h3>Power BI Visualization (Optional)</h3>
+<p>Download the transformed data to your local machine and import it into Power BI for analysis.</p>
+
+<img src="C:/Users/npwan/OneDrive/Pictures/Screenshots/Screenshot 2025-02-26 015236.png" alt="Power BI Dashboard Example" style="max-width: 100%; height: auto;">
+
 
 📂 Project Structure
 
